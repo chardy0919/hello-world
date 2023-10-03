@@ -1,0 +1,1 @@
+This is a banter I made to stay light hearted while learning the intricasies of Git and GitHub. The dialogue is between many versions of myself between the txt files and pull requests.
