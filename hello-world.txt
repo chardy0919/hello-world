@@ -3,3 +3,6 @@ There is a hello in here.
 No typos allowed.
 
 Hello bug world.
+
+I think your work
+is being affected by this 'git madness'.
