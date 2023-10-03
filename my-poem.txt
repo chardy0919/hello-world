@@ -1,0 +1,4 @@
+there once was a place, i know
+where all my data would go
+the magical word was 'init'
+transported to the land of git
